@@ -1,0 +1,41 @@
+:root {
+  --bs-primary-color: #050A30;
+  --bs-secondary-color: #030303;
+  --bs-gold-color: #CDAD7D;
+  --bs-heading-font-family: 'RobotoSerif', serif; 
+  --bs-body-font-family: 'Inter', sans-serif;  
+}
+
+  section {
+    padding: 120px 0;
+  }
+  p {
+    color:var(--bs-secondary-color);
+    line-height: 1.875rem;
+  }
+  a {
+    text-decoration: none;
+  }
+  h1,h2,h3,h4,h5,h6 {
+    font-family: var(--bs-heading-font-family);
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  .material-symbols-outlined {
+    font-weight: bold;
+    font-size: calc(var(--bs-body-font-size) * 1.25);
+    transition:all 0.7s;
+  }
+  img {
+    max-width: 100%;
+  }
+  body{
+    padding:0 ;
+  }
+ .navbar{
+background: #FFFFFFF2;
+ }
+ .navbar-nav li a{
+padding: 2.781rem 0;
+padding: 2.781rem 0;
+ }
