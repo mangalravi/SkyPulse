@@ -75,7 +75,7 @@ background:var(--bs-primary-color);
 .top-banner{
     padding-top: 195px;
     padding-bottom: 78px;
-    background:url(../images/banner-bg.avif);
+    background:url(../images/banner-bg.png);
     background-repeat: repeat-x;
     background-position: -1920px 100%;
     animation: cloudMove 30s linear 0s infinite;
@@ -196,7 +196,7 @@ line-height: 26px;
   margin-bottom: 5rem;
 }
 .fleets{
-  background-image: url(../images/our-fleets-bg.avif);
+  background-image: url(../images/our-fleets-bg.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
